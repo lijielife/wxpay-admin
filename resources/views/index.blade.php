@@ -33,7 +33,7 @@
             </div>
         </div>
         <div data-options="region:'south', split:false" style="height:50px;">
-            <div class="copyright">&#xA9;2016-2017 程序源科技版权所有</div>
+            <div class="copyright">&#xA9;2016-2017 XXX科技版权所有</div>
         </div>
         <div data-options="region:'west', border:true, split:false, headerCls:'index-panel-header'" title="功能导航" style="width: 200px; overflow-x: hidden; overflow-y: auto; padding-top: 0px; background: #fcfcfc none repeat scroll 0 0;">
             <div>
