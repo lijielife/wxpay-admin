@@ -1,0 +1,9 @@
+{
+	"name": "Transaction",
+	"slug": "transaction",
+	"namespace": "Transaction",
+	"version": "1.0",
+	"author": "Liukai",
+	"license": "MIT",
+	"description": "This is the description for the Transaction module."
+}

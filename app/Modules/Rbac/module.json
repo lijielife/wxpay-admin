@@ -1,0 +1,9 @@
+{
+	"name": "Rbac",
+	"slug": "rbac",
+	"namespace": "Rbac",
+	"version": "1.0",
+	"author": "Liukai",
+	"license": "MIT",
+	"description": "This is the description for the Rbac module."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Merchant",
+	"slug": "merchant",
+	"namespace": "Merchant",
+	"version": "1.0",
+	"author": "Liukai",
+	"license": "MIT",
+	"description": "This is the description for the Merchant module."
+}

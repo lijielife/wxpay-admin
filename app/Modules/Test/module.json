@@ -1,0 +1,9 @@
+{
+	"name": "Test",
+	"slug": "test",
+	"namespace": "Test",
+	"version": "1.0",
+	"author": "liukai",
+	"license": "MIT",
+	"description": "This is the description for the Test module."
+}
